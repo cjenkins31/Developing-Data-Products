@@ -1,0 +1,36 @@
+---
+title: "about"
+date: "July 18, 2016"
+output: html_document
+---
+
+The risk assessment tool uses information from the Framingham Heart Study to predict a person's chance of having a heart attack in the next 10 years. This tool is designed for adults aged 20 and older who do not have heart disease or diabetes. To find your risk score, enter your information in the calculator provided.
+
+## Total Cholesterol
+
+Total cholesterol is the sum of all the cholesterol in your blood. The higher your total cholesterol, the greater your risk for heart disease. Here are the total values that matter to you: 
+
+Less than 200 mg/dL 'Desirable' level that puts you at lower risk for heart disease. A cholesterol level of 200 mg/dL or greater increases your risk.
+
+200 to 239 mg/dL 'Borderline-high.' 
+
+240 mg/dL and above 'High' blood cholesterol. A person with this level has more than twice the risk of heart disease compared to someone whose cholesterol is below 200 mg/dL.
+
+## HDL Cholesterol
+
+High density lipoproteins (HDL) is the 'good' cholesterol. HDL carry cholesterol in the blood from other parts of the body back to the liver, which leads to its removal from the body. So HDL help keep cholesterol from building up in the walls of the arteries.
+
+Here are the HDL-Cholesterol Levels that matter to you:
+
+Less than 40 mg/dL A major risk factor for heart disease 
+
+40 to 59 mg/dL The higher your HDL, the better
+
+60 mg/dL and above An HDL of 60 mg/dL and above is considered protective against heart disease.
+
+## Smoker
+Select "yes" if you have smoked any cigarettes in the past month.
+
+## Systolic Blood Pressure
+Systolic blood pressure is the first number of your blood pressure reading. For example, if your reading is 120/80 (120 over 80), your systolic blood pressure is 120.
+
